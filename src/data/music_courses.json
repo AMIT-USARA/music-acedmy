@@ -1,0 +1,55 @@
+{
+    "courses":[
+        {
+          "id": 1,
+          "title": "Beginner Guitar Mastery",
+          "slug": "beginner-guitar-mastery",
+          "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+          "price": 2999,
+          "instructor": "John Doe",
+          "isFeatured": true,
+          "image": "/courses/guitar.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Advanced Piano Techniques",
+          "slug": "advanced-piano-techniques",
+          "description": "A deep dive into advanced piano techniques, including arpeggios, improvisation, and sight-reading.",
+          "price": 4999,
+          "instructor": "Jane Smith",
+          "isFeatured": false,
+          "image": "/courses/piano.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Music Theory Essentials",
+          "slug": "music-theory-essentials",
+          "description": "Understand music theory concepts such as scales, chords, progressions, and key signatures.",
+          "price": 1999,
+          "instructor": "Michael Brown",
+          "isFeatured": true,
+          "image": "/courses/music-theory-course.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Drumming for Beginners",
+          "slug": "drumming-for-beginners",
+          "description": "A step-by-step guide to drumming techniques, rhythms, and patterns for new drummers.",
+          "price": 3499,
+          "instructor": "Sarah Johnson",
+          "isFeatured": false,
+          "image": "/courses/drumming-course.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Vocal Training & Singing Techniques",
+          "slug": "vocal-training-singing",
+          "description": "Improve your vocal skills with exercises on breathing, pitch control, and performance techniques.",
+          "price": 3999,
+          "instructor": "Emily Davis",
+          "isFeatured": true,
+          "image": "/courses/vocal-course.jpg"
+        }
+      ]
+      
+}
