@@ -1,55 +1,104 @@
 {
-    "courses":[
-        {
-          "id": 1,
-          "title": "Beginner Guitar Mastery",
-          "slug": "beginner-guitar-mastery",
-          "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
-          "price": 2999,
-          "instructor": "John Doe",
-          "isFeatured": true,
-          "image": "/courses/guitar.jpg"
-        },
-        {
-          "id": 2,
-          "title": "Advanced Piano Techniques",
-          "slug": "advanced-piano-techniques",
-          "description": "A deep dive into advanced piano techniques, including arpeggios, improvisation, and sight-reading.",
-          "price": 4999,
-          "instructor": "Jane Smith",
-          "isFeatured": false,
-          "image": "/courses/piano.jpg"
-        },
-        {
-          "id": 3,
-          "title": "Music Theory Essentials",
-          "slug": "music-theory-essentials",
-          "description": "Understand music theory concepts such as scales, chords, progressions, and key signatures.",
-          "price": 1999,
-          "instructor": "Michael Brown",
-          "isFeatured": true,
-          "image": "/courses/music-theory-course.jpg"
-        },
-        {
-          "id": 4,
-          "title": "Drumming for Beginners",
-          "slug": "drumming-for-beginners",
-          "description": "A step-by-step guide to drumming techniques, rhythms, and patterns for new drummers.",
-          "price": 3499,
-          "instructor": "Sarah Johnson",
-          "isFeatured": false,
-          "image": "/courses/drumming-course.jpg"
-        },
-        {
-          "id": 5,
-          "title": "Vocal Training & Singing Techniques",
-          "slug": "vocal-training-singing",
-          "description": "Improve your vocal skills with exercises on breathing, pitch control, and performance techniques.",
-          "price": 3999,
-          "instructor": "Emily Davis",
-          "isFeatured": true,
-          "image": "/courses/vocal-course.jpg"
-        }
-      ]
-      
+  "courses": [
+    {
+      "id": 1,
+      "title": "Beginner Guitar Mastery",
+      "slug": "beginner-guitar-mastery",
+      "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+      "price": 2999,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Piano Techniques",
+      "slug": "advanced-piano-techniques",
+      "description": "A deep dive into advanced piano techniques, including arpeggios, improvisation, and sight-reading.",
+      "price": 4999,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Understand music theory concepts such as scales, chords, progressions, and key signatures.",
+      "price": 1999,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "/courses/music-theory-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming for Beginners",
+      "slug": "drumming-for-beginners",
+      "description": "A step-by-step guide to drumming techniques, rhythms, and patterns for new drummers.",
+      "price": 3499,
+      "instructor": "Sarah Johnson",
+      "isFeatured": false,
+      "image": "/courses/drumming-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vocal Training & Singing Techniques",
+      "slug": "vocal-training-singing",
+      "description": "Improve your vocal skills with exercises on breathing, pitch control, and performance techniques.",
+      "price": 3999,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/courses/vocal-course.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn how to produce EDM and electronic tracks using DAWs like Ableton Live and FL Studio.",
+      "price": 5999,
+      "instructor": "David Lee",
+      "isFeatured": false,
+      "image": "/courses/electronic-music.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Improvisation Masterclass",
+      "slug": "jazz-improvisation-masterclass",
+      "description": "Explore the art of jazz improvisation and learn how to solo with confidence over complex changes.",
+      "price": 5499,
+      "instructor": "Carlos Santana",
+      "isFeatured": true,
+      "image": "/courses/jazz-course.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Sight Reading Bootcamp",
+      "slug": "sight-reading-bootcamp",
+      "description": "Build your ability to sight-read music fluently, with practical drills and reading exercises.",
+      "price": 2599,
+      "instructor": "Anna Liu",
+      "isFeatured": false,
+      "image": "/courses/sight-reading.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting for Modern Artists",
+      "slug": "songwriting-modern-artists",
+      "description": "Write, structure, and polish your own songs with tips from industry professionals.",
+      "price": 4299,
+      "instructor": "Mark Bell",
+      "isFeatured": true,
+      "image": "/courses/songwriting.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Film Scoring Fundamentals",
+      "slug": "film-scoring-fundamentals",
+      "description": "Discover how to compose music for film and television, using MIDI, orchestration, and mood.",
+      "price": 6499,
+      "instructor": "Linda Chen",
+      "isFeatured": false,
+      "image": "/courses/film-scoring.jpg"
+    }
+  ]
 }

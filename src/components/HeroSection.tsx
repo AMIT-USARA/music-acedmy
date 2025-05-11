@@ -22,10 +22,12 @@ function HeroSection() {
                     drive into our comprehensive music courses and tranform ypur musical journey today. whether you're a beginner or looking to refine your skills, join us to unlock your true potential.
                 </p>
                 <div className='mt-4'>
-                    <Button
-                        borderRadius="1.75rem"
-                        className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"
-                    ><Link href={"/courses"}>Explore Courses</Link></Button>
+                    <Link href={"/courses"}>
+                        <Button
+                            borderRadius="1.75rem"
+                            className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-900"
+                        >Explore Courses</Button>
+                    </Link>
 
                 </div>
             </div>
